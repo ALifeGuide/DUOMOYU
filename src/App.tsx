@@ -118,7 +118,7 @@ function App() {
                     fontSize: '0.875rem'
                   }}
                 >
-                  祝愿所有给本项目Star的小伙伴牛子长度翻倍！
+                  少点工作，多点生活，多模鱼！
                 </Typography>
                 <Button
                   variant="contained"
