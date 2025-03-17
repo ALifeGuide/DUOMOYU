@@ -186,7 +186,7 @@ export const RecordForm = () => {
                         WebkitBackgroundClip: 'text',
                         WebkitTextFillColor: 'transparent'
                     }}>
-                    记录新的手艺活
+                    记录新的摸鱼时刻
                 </Typography>
                 
                 <Box sx={{ 
