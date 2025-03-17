@@ -118,7 +118,7 @@ function App() {
                     fontSize: '0.875rem'
                   }}
                 >
-                  少点工作，多点生活，多模鱼！
+                  少点工作，多点生活，多摸鱼！
                 </Typography>
                 <Button
                   variant="contained"
